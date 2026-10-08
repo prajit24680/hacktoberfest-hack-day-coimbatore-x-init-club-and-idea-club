@@ -1,4 +1,4 @@
-# [Project Name]
+# [campus watch]
 
 > [One-line description of the project and what it does.]
 
